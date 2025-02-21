@@ -1,5 +1,4 @@
 const http=require('http');
-const { stringify } = require('querystring');
 const server=http.createServer(async(req,res)=>{
     const data=await fetch("https://dummyjson.com/products");
     const jsondata=await data.json();
