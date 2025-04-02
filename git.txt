@@ -1,0 +1,20 @@
+git init
+
+git add .
+
+git commit -m "Day1"
+
+git remote add origin https://github.com/abhishekkes/fsdbackenddsa.git
+
+git push
+
+git push --set-upstream origin master
+
+
+for commiting each time
+git add .
+git commit -m" "
+git push
+
+ipconfig to get ip address
+To use ipv4 address

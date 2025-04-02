@@ -1,0 +1,12 @@
+API testing Thunder client
+Sync:Synchronous(Blocking)(One at a time)
+Async:Asynchronous(Non-Blocking)(Runs multiple tasks parellely)
+
+
+server creation
+const http=require('http)
+const server=http.createserver((req,res)=>{
+
+
+})
+server.listen(3000,(err)=>{})

@@ -1,0 +1,8 @@
+npm create vite@latest
+Ok to proceed? (y) Y
+√ Project name: ... web-app
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+cd web-app
+ npm i react-router-dom
+ rafce to create component of a function
